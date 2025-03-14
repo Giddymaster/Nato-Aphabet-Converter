@@ -1,8 +1,17 @@
-# React + Vite
+# An app for converting characters into Nato Alphabet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## For example  
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+     a: "alpha",
+    b: "bravo",
+    c: "charlie",
+    d: "delta",
+    e: "echo",
+    f: "foxtrot",
+    g: "golf",
+    h: "hotel",
+    i: "india",
+    j: "juliett",
+    k: "kilo",
+    l: "lima",
+    m: "mike",
